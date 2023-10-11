@@ -137,6 +137,8 @@ const enemy = new Fighter({
 
 const game_over = () => player.dead || enemy.dead || timer === 0;
 
+
+
 const keys = {
   a: {
     pressed: false,
