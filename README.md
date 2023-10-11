@@ -1,2 +1,2 @@
 
-fighting game using vanilla js
+fighting game using vanilla HTML, CSS and JS
